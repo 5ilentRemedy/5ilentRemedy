@@ -17,7 +17,7 @@ I am a results-driven IT professional with a focus on **Infrastructure as Code (
 
 ### 🚀 Tech Stack & Tools
 
-![My Skills](https://skillicons.dev/icons?i=azure,ansible,terraform,docker,kubernetes,linux,githubactions,bash)
+![My Skills](https://skillicons.dev/icons?i=azure,ansible,terraform,linux,githubactions,bash)
 
 * **Cloud:** Azure (AKS, App Services, Networking, Governance)
 * **Automation:** Ansible, Terraform
