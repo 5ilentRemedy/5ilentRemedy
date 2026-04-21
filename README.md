@@ -38,6 +38,7 @@ When I'm not automating the cloud or leading my team, you'll probably find me ex
 ### 📊 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=5ilentRemedy&show_icons=true&theme=nord&count_private=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=5ilentRemedy&layout=compact&theme=nord)
 
 ---
