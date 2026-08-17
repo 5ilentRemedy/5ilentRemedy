@@ -1,7 +1,5 @@
 # Hi there, I'm 5ilentRemedy! 👋
 
-## 👨‍💻 Team Leader | DevOps Engineer | Azure & Automation Specialist
-
 I am a results-driven IT professional with a focus on **Infrastructure as Code (IaC)**, cloud scalability, and leading high-performing technical teams. I bridge the gap between complex cloud architecture and efficient delivery.
 
 ---
