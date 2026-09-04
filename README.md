@@ -35,11 +35,3 @@ Infrastructure/Cloud engineer working across **Windows Server, Microsoft Azure, 
 Military vehicle history buff, LEGO collector, fantasy/crime novels, WRC rally fan, and I build my own HEDT PCs. Also tinker with small personal automations and a couple of Discord bots in my spare time.
 
 ---
-
-### 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=5ilentRemedy&show_icons=true&theme=nord&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=5ilentRemedy&layout=compact&theme=nord)
-
----
