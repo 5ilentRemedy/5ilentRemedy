@@ -1,35 +1,38 @@
-# Hi there, I'm 5ilentRemedy! 👋
+# Hi there, I'm 5ilentRemedy 👋
 
-I am a results-driven IT professional with a focus on **Infrastructure as Code (IaC)**, cloud scalability, and leading high-performing technical teams. I bridge the gap between complex cloud architecture and efficient delivery.
+Infrastructure/Cloud engineer working across **Windows Server, Microsoft Azure, and automation platforms (Ansible)** — with a Team Leader hat on the side.
 
 ---
 
-### 🛠 Professional Focus
+### 💼 Professional Focus
 
-* **Cloud Infrastructure:** Expert-level management of **Microsoft Azure** environments.
-* **Automation:** Orchestrating complex deployments using **Ansible** and Terraform.
-* **DevOps Culture:** Streamlining CI/CD pipelines and fostering collaboration.
-* **Leadership:** Mentoring engineers, managing project lifecycles, and driving technical strategy.
+* **Windows & Azure Infrastructure:** Administering Windows Server environments and Microsoft Azure — governance, networking, and day-to-day operations.
+* **Automation at Scale:** Ansible Automation Platform across many organizations and thousands of hosts.
+* **Storage & Resilience Background:** SAN/NAS administration (IBM Storwize/SVC, Dell EqualLogic/Compellent) — stretched clusters, DR, 24/7 on-call.
+* **Leadership:** Team Leader — onboarding, scheduling, and the escalation point for the team.
 
 ---
 
 ### 🚀 Tech Stack & Tools
 
-![My Skills](https://skillicons.dev/icons?i=azure,ansible,terraform,linux,githubactions,bash)
+![My Skills](https://skillicons.dev/icons?i=azure,ansible,terraform,powershell,windows,linux,python,docker,githubactions,bash)
 
-* **Cloud:** Azure (AKS, App Services, Networking, Governance)
-* **Automation:** Ansible, Terraform
-* **OS/Scripting:** Linux, Bash, Python
-* **CI/CD:** GitHub Actions, Azure DevOps
+* **Cloud:** Azure (Administration, Governance, Networking)
+* **Automation:** Ansible Automation Platform, Terraform
+* **OS/Scripting:** Windows Server, Linux, PowerShell, Python, Bash
+* **Home Lab:** Docker, n8n, self-hosted automations
 
 ---
 
-### 🕹️ Personal Interests & Passions
+### 🎓 Certifications
 
-When I'm not automating the cloud or leading my team, you'll probably find me exploring:
-* **Gaming:** Both as a player and a fan of the tech behind the industry.
-* **Cloud Trends:** Keeping up with the latest in serverless and edge computing.
-* **Tech Innovations:** Always experimenting with new hardware and IT gadgets.
+`AZ-104` `AZ-900` `AI-901` `AWS Cloud Practitioner` `Google Associate Cloud Engineer` `Rubrik RCSA` `Rubrik RCE`
+
+---
+
+### 🕹️ Beyond Work
+
+Military vehicle history buff, LEGO collector, fantasy/crime novels, WRC rally fan, and I build my own HEDT PCs. Also tinker with small personal automations and a couple of Discord bots in my spare time.
 
 ---
 
